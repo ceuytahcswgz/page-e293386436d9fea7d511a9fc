@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "acbf5709221349ca84781f74",
+  "owner": "ceuytahcswgz",
+  "repo": "page-e293386436d9fea7d511a9fc",
+  "title": "clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e293386436d9fea7d511a9fc",
+      "a": "clash节点",
+      "b": "",
+      "entity": "clash节点",
+      "brand": "clash节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "794c739efd622e34057788fe36d94ddcfc6cf38716a0bad2a26c0af9bb7f77ef",
+      "content": {
+        "keyword1": "clash节点",
+        "keyword2": "",
+        "primary_entity": "clash节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash节点为您提供专业的机场订阅和VPN加速解决方案，包含Clash客户端下载、节点池和多款套餐选择。享受高速网络加速。",
+          "AI_DESCRIPTION": "clash节点为您提供专业的机场订阅和VPN加速解决方案，包含Clash客户端下载、节点池和多款套餐选择。享受高速网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --purple: #8b5cf6;\n            --gray: #f3f4f6;\n            --text: #374151;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            padding: 0;\n            background: var(--gray);\n            color: var(--text);\n            line-height: 1.6;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            text-align: center;\n            color: var(--purple);\n            font-size: 2.5rem;\n            margin-bottom: 20px;\n        }\n        .hero {\n            text-align: center;\n            padding: 40px 20px;\n            background: linear-gradient(135deg, #f3e8ff, #e0e7ff);\n            border-radius: 12px;\n            margin-bottom: 40px;\n        }\n        .hero h2 {\n            font-size: 1.8rem;\n            margin-bottom: 10px;\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 20px;\n            margin-bottom: 40px;\n        }\n        .plan {\n            background: white;\n            border: 2px solid #e5e7eb;\n            border-radius: 12px;\n            padding: 30px;\n            transition: transform 0.3s;\n        }\n        .plan.featured {\n            border-color: var(--purple);\n            transform: scale(1.05);\n            position: relative;\n        }\n        .plan.featured::after {\n            content: '推荐';\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background: var(--purple);\n            color: white;\n            padding: 5px 15px;\n            border-radius: 20px;\n            font-size: 0.8rem;\n        }\n        .price {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--purple);\n            margin: 15px 0;\n        }\n        .annual {\n            color: #666;\n            font-size: 0.9rem;\n        }\n        .features {\n            list-style: none;\n            padding: 0;\n        }\n        .features li {\n            padding: 8px 0;\n            display: flex;\n            align-items: center;\n        }\n        .features li::before {\n            content: '✓';\n            color: var(--purple);\n            margin-right: 10px;\n        }\n        details {\n            background: white;\n            margin-bottom: 10px;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 15px 20px;\n            font-weight: bold;\n            cursor: pointer;\n            background: #f3f4f6;\n        }\n        summary:hover {\n            background: #e5e7eb;\n        }\n        .section {\n            margin-bottom: 40px;\n        }\n        h2 {\n            color: var(--purple);\n            font-size: 1.6rem;\n            margin-bottom: 20px;\n        }\n        p {\n            margin-bottom: 15px;\n            font-size: 1rem;\n        }\n        footer {\n            background: #1f2937;\n            color: white;\n            padding: 30px;\n            text-align: center;\n        }\n        .links {\n            display: flex;\n            justify-content: center;\n            gap: 20px;\n            flex-wrap: wrap;\n        }\n        a {\n            color: var(--purple);\n            text-decoration: none;\n        }\n        a:hover {\n            text-decoration: underline;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2rem;\n            }\n            .hero h2 {\n                font-size: 1.5rem;\n            }\n            .plans {\n                grid-template-columns: 1fr;\n            }\n        }\n    </style>\n\n\n    <main class=\"container\">\n        <h1>clash节点</h1>\n        <div class=\"hero\">\n            <h2>clash节点 - 机场订阅 &amp; VPN加速器</h2>\n            <p>专业节点池，高速稳定，助力您的网络畅通无阻</p>\n        </div>\n        <div class=\"section\">\n            <h2>品牌简介</h2>\n            <p>clash节点是专注于提供优质Clash节点服务的平台，助力用户享受稳定高速的网络加速。无论您是个人用户还是企业团队，都能找到适合的套餐方案。</p>\n        </div>\n        <div class=\"section\">\n            <h2>使用场景</h2>\n            <p>• 机场订阅与节点加速</p>\n            <p>• VPN客户端下载与网络优化</p>\n            <p>• 游戏加速与流媒体解锁</p>\n            <p>• 多设备同时在线</p>\n        </div>\n        <div class=\"section\">\n            <h2>操作说明</h2>\n            <h3>1. 选择客户端</h3>\n            <p>推荐使用Clash Meta或Nekobox客户端，下载后导入订阅链接。</p>\n            <h3>2. 获取订阅</h3>\n            <p>选择套餐后，获取专属订阅URL，点击导入节点。</p>\n            <h3>3. 连接节点</h3>\n            <p>在客户端中选择节点，享受加速。</p>\n            <h3>4. 官网下载</h3>\n            <p>访问官网获取最新客户端版本。</p>\n        </div>\n        <div class=\"section\">\n            <h2>选择您的套餐</h2>\n            <div class=\"plans\">\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <div class=\"price\">¥15/月</div>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                    <ul class=\"features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"price\">¥35/月</div>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                    <ul class=\"features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <div class=\"price\">¥85/月</div>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                    <ul class=\"features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n        <div class=\"section\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是clash节点？</summary>\n                <p>clash节点是提供机场订阅和VPN加速服务的平台，专注于Clash客户端的节点支持，帮助用户实现高速稳定连接。</p>\n            </details>\n            <details>\n                <summary>如何订阅clash节点？</summary>\n                <p>选择适合的套餐后，立即获取专属订阅链接，导入Clash客户端即可使用。</p>\n            </details>\n            <details>\n                <summary>支持哪些客户端？</summary>\n                <p>推荐Clash Meta、Nekobox、Clash for Windows 等主流客户端均支持。</p>\n            </details>\n            <details>\n                <summary>流量限制如何？</summary>\n                <p>不同套餐流量不同，基础版每月100GB，旗舰版300GB，团队版1000GB，超出后可能限速。</p>\n            </details>\n            <details>\n                <summary>如何解锁流媒体？</summary>\n                <p>旗舰版及以上套餐支持全节点原生流媒体解锁，普通节点可尝试更换线路。</p>\n            </details>\n            <details>\n                <summary>售后支持如何？</summary>\n                <p>旗舰版及以上提供7x24优先工单支持，团队版有专属客户经理。</p>\n            </details>\n        </div>\n        <footer>\n            <div class=\"links\">\n                <a href=\"#\">官网下载</a>\n                <a href=\"#\">客户端帮助</a>\n                <a href=\"#\">隐私政策</a>\n                <a href=\"#\">友链</a>\n            </div>\n            <p>© 2024 clash节点. 所有权利保留.</p>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "80090a8894ef53eaa11f77283a1f14841726b432a114ff77bc0eed1f97de64d8",
+          "seo": {
+            "title": "clash节点 - 机场订阅 VPN加速器 客户端下载",
+            "keywords": "clash节点, 机场订阅, VPN加速器, 客户端下载, Clash节点, 节点池, VPN加速",
+            "description": "clash节点为您提供专业的机场订阅和VPN加速解决方案，包含Clash客户端下载、节点池和多款套餐选择。享受高速网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "de93w.cn",
+    "host": "p-59d3f91141.de93w.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "dadc128f74f5e21a7157aaac60164508255f21ff6e02ff7a0133e6002cb7c5c1",
+    "sitemap.xml": "c13a75416720b86532c33ff433e5b28f3730627c862b989fce76111297315f7a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5fa9ebd310670164c480cfae541d379334f4fb296a5cd103129ae38083f85ee0",
+    "robots.txt": "693e377f49a28614bf47d3bf37a7006d0c43031a4f799616cdc0622882932188",
+    "0287b84fe374a087a342d77cce3c7829.txt": "76fdaa297d654b661fa104204bf27a8b21d6b8497ea3146a5860d3d9d383ef35"
+  },
+  "revision": "8ff2b9dd0353ce82e24c163e6690ed252e198bc13c98741930bae04162e592bd"
+}
